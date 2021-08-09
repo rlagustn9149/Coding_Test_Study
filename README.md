@@ -1,8 +1,10 @@
 # Coding_Test_Study
 
-
-
-
+## 구성원
+   이태양
+   이현구
+   김현수
+   
 ## **Language** :  **Python**
 
 ## _자료구조_
