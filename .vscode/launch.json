@@ -6,6 +6,209 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch _2193",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._2193",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _15990",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._15990",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _14889",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._14889",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _14225",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._14225",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _11723",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._11723",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1476",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._1476",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _3085",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._3085",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _2309",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._2309",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _11727",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._11727",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _11726",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._11726",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1463",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._1463",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _17103",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._17103",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1373",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._1373",
+      "projectName": "Coding_Test_Study_11decff4"
+    },
+    {
+      "type": "java",
+      "name": "Launch _2004",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._2004",
+      "projectName": "Coding_Test_Study_11decff4"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1676",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._1676",
+      "projectName": "Coding_Test_Study_11decff4"
+    },
+    {
+      "type": "java",
+      "name": "Launch _6588",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._6588",
+      "projectName": "Coding_Test_Study_11decff4"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1929",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._1929",
+      "projectName": "Coding_Test_Study_11decff4"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1978",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._1978",
+      "projectName": "Coding_Test_Study_11decff4"
+    },
+    {
+      "type": "java",
+      "name": "Launch _11656",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._11656",
+      "projectName": "Coding_Test_Study_11decff4"
+    },
+    {
+      "type": "java",
+      "name": "Launch _10824",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._10824",
+      "projectName": "Coding_Test_Study_11decff4"
+    },
+    {
+      "type": "java",
+      "name": "Launch _11655",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._11655",
+      "projectName": "Coding_Test_Study_11decff4"
+    },
+    {
+      "type": "java",
+      "name": "Launch _2743",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._2743",
+      "projectName": "Coding_Test_Study_11decff4"
+    },
+    {
+      "type": "java",
+      "name": "Launch _10820",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._10820",
+      "projectName": "Coding_Test_Study_11decff4"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1918",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._1918",
+      "projectName": "Coding_Test_Study_11decff4"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1934",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._1934",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _2609",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._2609",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _10430",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._10430",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _10808",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._10808",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
+      "name": "Launch _1918",
+      "request": "launch",
+      "mainClass": "BOJ.code_plus._1918",
+      "projectName": "Coding_Test_Study_b7477a41"
+    },
+    {
+      "type": "java",
       "name": "Launch _17299",
       "request": "launch",
       "mainClass": "hyunsoo.BOJ.code_plus._17299",
